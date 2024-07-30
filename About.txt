@@ -1,5 +1,6 @@
-Prayoga 24' is a repository containing files for two twojects-
-1) An outdated version of the project- Study Buddy
-2)A Banking interface in python with modern ui, encryption and common functionality such as Withdrawing money, depositing money, transfer of funds etc.
+Prayoga 24' is a repository containing files for a program to help the disables.
+1)Speech to text, The program is called STA(c)T.
+Contributers: Naman Bhotika, Sai Gokul
 
-Contributers:
+
+STA(c)T: Speech to text(cloud) converter.
