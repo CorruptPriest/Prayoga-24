@@ -1,6 +1,5 @@
 Prayoga 24' is a repository containing files for a program to help the disables.
 1)Speech to text, The program is called STA(c)T.
-Contributers: Naman Bhotika, Sai Gokul
-
 
 STA(c)T: Speech to text(at cloud) transformer.
+This was a school project lmao
